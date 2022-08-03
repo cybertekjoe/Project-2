@@ -4,6 +4,6 @@ The purpose of this project was to practice the roles of a pentester and SOC ana
 - Analyze ELK logs for Indicators of attack and to identify the type of attacks.
 - Documentation of findings to create a presentation on the assessment, analysis and hardening of the vulnerable system.
 
-Read through the [Documentation](https://github.com/aprilemorales/RedvsBlueProject/tree/master/Documentation) to view work, proccess, notes and findings from both [Red Team](https://github.com/cybertekjoe/Project-2/blob/main/RedTeam.md) and [Blue Team](https://github.com/cybertekjoe/Project-2/blob/main/BlueTeam.md) perspective that lead up to creation of the final presetation.
+Read through the notes to view work, proccess, and findings from both [Red Team](https://github.com/cybertekjoe/Project-2/blob/main/RedTeam.md) and [Blue Team](https://github.com/cybertekjoe/Project-2/blob/main/BlueTeam.md) perspective that lead up to creation of the final presetation.
 
 View the final Google slide project [presentation here](https://docs.google.com/presentation/d/1fnGYJImmxA9NmKkuyRHfveKDSxcfO8sR7hGgkLP5UNk/edit?usp=sharing).
