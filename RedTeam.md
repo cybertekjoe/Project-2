@@ -135,7 +135,7 @@ Results:
 
 `php/meterpreter/reverse_tcp`
 
-![Meterpreter search results](/Images/meterpreter-search-results.png "Meterpreter search results")
+![Meterpreter search results](/Images/MSF5-Exploit-TCP-Handler.png "Meterpreter search results")
 
 Once a list of payloads is output and the PHP specific reverse tcp script is found the payload can be created.
 
