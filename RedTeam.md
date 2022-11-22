@@ -34,7 +34,7 @@ Now that the IP of the server/machine was found it was time to visit it at http:
 
 Working top to bottom going through the folders listed a file with a reference secret folder was located. 
 
-![secret folder path](/Images/secret-folder.jpg "secret folder path")
+![secret folder path](/Images/secret_folder.jpg "secret folder path")
 
 Following this instruction as to where to navigate to being http://192.168.1.105/company_folders/secret_folder.
 
