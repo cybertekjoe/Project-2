@@ -78,7 +78,7 @@ This note included some important information including an account to use, the h
 
 Note found:
 
-![secret note](/Images/secret-note.png "secret note")
+![secret note](/Images/WebDav-accessed.png "secret note")
 
 Using CrackStation to crack the hash from the note:
 
