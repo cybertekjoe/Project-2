@@ -115,7 +115,7 @@ Once in the File Manager on the left hand side click on Browse Network.
 
 Then navigate to dav://192.168.1.105/webdav using the folder search bar.
 
-![WebDav file manager](/Images/webdav-file-manager.png "WebDav file manager")
+![WebDav file manager](/Images/WebDav-accessed.png "WebDav file manager")
 
 ### Upload a PHP reverse shell payload.
 
