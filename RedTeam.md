@@ -34,11 +34,11 @@ Now that the IP of the server/machine was found it was time to visit it at http:
 
 Working top to bottom going through the folders listed a file with a reference secret folder was located. 
 
-![secret folder path](/Images/secret_folder.jpg "secret folder path")
+![secret folder path](/Images/KIbanaFilesRequested.jpg "secret folder path")
 
 Following this instruction as to where to navigate to being http://192.168.1.105/company_folders/secret_folder.
 
-![secret folder](/Images/secret-folder.png "secret folder")
+![secret folder](/Images/secret_folder.jpg "secret folder")
 
 While trying to navigate to the secret_folder directory a prompt to authenticate appears. Based on the “For ashton’s eyes only” it is determined that cracking the password for the user ashton is the next step.
 
