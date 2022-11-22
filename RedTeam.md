@@ -92,8 +92,6 @@ Connecting to WebDav can be done a few ways. This can be done either through the
 #### Cadaver way:
 Search for Cadaver by clicking the Kali Linux icon at the top left of the toolbar.
 
-![Cadaver search](/Images/cadaver-search.png "Cadaver search")
-
 This opens a terminal with Cadaver running
 
 Commands:
