@@ -67,7 +67,7 @@ login: ashton
 
 password: leopoldo
 
-<img src="/Images/hydra_results.jpg" height="140">
+<img src="/Images/hydra_results.jpg" height="200">
 
 ### Break the hashed password with the Crack Station website or John the Ripper.
 Once the password was determined for user ashton the secret_folder can now be navigated to using username ashton and password leopoldo. 
