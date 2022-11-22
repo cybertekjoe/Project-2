@@ -30,7 +30,7 @@ While there were other machines on the network it could be determined that IP en
 ### Locate the hidden directory on the web server.
 Now that the IP of the server/machine was found it was time to visit it at http://192.168.1.105.
 
-![index of 192.168.1.105](/Images/index-folder.png "index of 192.168.1.105")
+![index of 192.168.1.105](/Images/index-folder.jpg "index of 192.168.1.105")
 
 Working top to bottom going through the folders listed a file with a reference secret folder was located. 
 
