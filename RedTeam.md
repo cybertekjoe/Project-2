@@ -217,4 +217,4 @@ Results:
 
 `b1ng0w@5h1sn@m0`
 
-![captured flag](/Images/captured-flag.png "captured flag")
+![captured flag](/Images/captured-flag.jpg "captured flag")
